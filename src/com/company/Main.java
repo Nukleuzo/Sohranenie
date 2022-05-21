@@ -66,15 +66,3 @@ public class Main {
         }
     }
 }
-
-
-
-
-
-
-
-//        for (File file: dir.listFiles()) {
-//            if (file.getName().contains(".dat")) {
-//                file.delete();
-//            }
-//        }
