@@ -47,7 +47,6 @@ public class Main {
 
     }
 
-
     private static void saveGame(String way, GameProgress gameProgress) {
 
         try (FileOutputStream fos = new FileOutputStream(way);
